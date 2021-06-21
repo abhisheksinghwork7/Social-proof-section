@@ -31,7 +31,7 @@ Users should be able to:
 ![Screenshot-desktop](images/Scrrenshot-Desktop.png)
 
 -Mobile
-![Screenshot-mobile](images/Screenshot-mobile .png)
+![Screenshot-mobile](images/Screenshot-mobile.png)
 
 
 
