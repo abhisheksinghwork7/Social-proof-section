@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repository](https://github.com/abhisheksinghwork7/Social-proof-section)
+- Live Site URL: [Vercel APP](https://social-proof-section-seven-theta.vercel.app/)
 
 ## My process
 
