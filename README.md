@@ -28,9 +28,11 @@ Users should be able to:
 ### Screenshot
 
 -Desktop
+
 ![Screenshot-desktop](images/Scrrenshot-Desktop.png)
 
 -Mobile
+
 ![Screenshot-mobile](images/Screenshot-mobile.png)
 
 
